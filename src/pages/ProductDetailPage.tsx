@@ -3,6 +3,7 @@ import { productsRepository } from "../repositories/productsRepository";
 import { useQuoteCart } from "../context/QuoteCartContext";
 import { ProductGrid } from "../components/product/ProductGrid";
 import { NotFoundPage } from "./NotFoundPage";
+import { withBase } from "../lib/assetUrl";
 
 export function ProductDetailPage() {
   const { categorySlug, productSlug } = useParams<{ categorySlug: string; productSlug: string }>();
@@ -34,7 +35,7 @@ export function ProductDetailPage() {
       <div className="grid gap-10 lg:grid-cols-2">
         <div className="flex aspect-square items-center justify-center rounded-lg bg-surface-subtle text-sm text-muted">
           {product.images[0] ? (
-            <img src={product.images[0]} alt={product.name} className="h-full w-full object-cover" />
+            <img src={withBase(product.images[0])} alt={product.name} className="h-full w-full object-cover" />
           ) : (
             "Imagen pendiente"
           )}

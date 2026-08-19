@@ -3,6 +3,7 @@ import { Link, NavLink } from "react-router-dom";
 import serviceLandings from "../../data/serviceLandings.json";
 import categories from "../../data/categories.json";
 import { useQuoteCart } from "../../context/QuoteCartContext";
+import { withBase } from "../../lib/assetUrl";
 
 const navLinkClass = ({ isActive }: { isActive: boolean }) =>
   `px-3 py-2 text-sm font-medium transition-colors hover:text-brand-action ${
@@ -17,7 +18,7 @@ export function Header() {
     <header className="sticky top-0 z-50 border-b border-border bg-surface/95 backdrop-blur">
       <div className="mx-auto flex max-w-7xl items-center justify-between gap-6 px-4 py-3 lg:px-8">
         <Link to="/" className="shrink-0">
-          <img src="/images/logo.png" alt="TECPORT — Tecnología y Portones" className="h-9 w-auto" />
+          <img src={withBase("/images/logo.png")} alt="TECPORT — Tecnología y Portones" className="h-9 w-auto" />
         </Link>
 
         <nav className="hidden items-center lg:flex">

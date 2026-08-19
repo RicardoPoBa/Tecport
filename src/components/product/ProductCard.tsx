@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import type { Product } from "../../types";
 import { productsRepository } from "../../repositories/productsRepository";
 import { useQuoteCart } from "../../context/QuoteCartContext";
+import { withBase } from "../../lib/assetUrl";
 
 interface ProductCardProps {
   product: Product;
@@ -19,7 +20,7 @@ export function ProductCard({ product, categorySlug }: ProductCardProps) {
       <Link to={`/productos/${categorySlug}/${product.slug}`} className="block">
         <div className="flex aspect-square items-center justify-center bg-surface-subtle text-sm text-muted">
           {product.images[0] ? (
-            <img src={product.images[0]} alt={product.name} className="h-full w-full object-cover" />
+            <img src={withBase(product.images[0])} alt={product.name} className="h-full w-full object-cover" />
           ) : (
             "Imagen pendiente"
           )}

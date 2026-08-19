@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import serviceLandings from "../data/serviceLandings.json";
+import { withBase } from "../lib/assetUrl";
 
 export function HomePage() {
   return (
@@ -37,7 +38,7 @@ export function HomePage() {
               <div className="aspect-[4/3] w-full overflow-hidden bg-surface-subtle">
                 {s.thumbnail ? (
                   <img
-                    src={s.thumbnail}
+                    src={withBase(s.thumbnail)}
                     alt={s.navLabel}
                     className="h-full w-full object-cover transition-transform group-hover:scale-105"
                   />

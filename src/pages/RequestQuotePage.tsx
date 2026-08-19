@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { Hero } from "../components/layout/Hero";
 import { useQuoteCart } from "../context/QuoteCartContext";
+import { withBase } from "../lib/assetUrl";
 
 export function RequestQuotePage() {
   const { items, removeItem, updateQuantity, clear } = useQuoteCart();
@@ -42,7 +43,7 @@ export function RequestQuotePage() {
                         <div className="flex h-14 w-14 shrink-0 items-center justify-center overflow-hidden rounded-md bg-surface-subtle">
                           {product.images[0] ? (
                             <img
-                              src={product.images[0]}
+                              src={withBase(product.images[0])}
                               alt={product.name}
                               className="h-full w-full object-cover"
                             />

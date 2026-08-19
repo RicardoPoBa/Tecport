@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import type { ServiceLanding } from "../types";
 import { Hero } from "./layout/Hero";
+import { withBase } from "../lib/assetUrl";
 
 const iconPlaceholder = (
   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={1.5} className="h-6 w-6">
@@ -43,7 +44,7 @@ export function ServiceLandingSection({ landing }: { landing: ServiceLanding }) 
             {landing.images.map((src) => (
               <img
                 key={src}
-                src={src}
+                src={withBase(src)}
                 alt={landing.title}
                 className="aspect-[4/3] w-full rounded-lg object-cover"
               />
