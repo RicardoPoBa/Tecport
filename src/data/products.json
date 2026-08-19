@@ -1,0 +1,1451 @@
+[
+  {
+    "id": "p-seccional-cuadros",
+    "sku": "Seccional Cuadros",
+    "slug": "seccional-cuadros",
+    "name": "Seccional Cuadros",
+    "categoryId": "blacksmith",
+    "images": [
+      "/images/products/seccional-cuadros.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-seccional-flush",
+    "sku": "Seccional Flush",
+    "slug": "seccional-flush",
+    "name": "Seccional Flush",
+    "categoryId": "blacksmith",
+    "images": [
+      "/images/products/seccional-flush.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-seccional-rayas",
+    "sku": "Seccional Rayas",
+    "slug": "seccional-rayas",
+    "name": "Seccional Rayas",
+    "categoryId": "blacksmith",
+    "images": [
+      "/images/products/seccional-rayas.jpeg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-c-100",
+    "sku": "C-100",
+    "slug": "c-100",
+    "name": "C-100",
+    "categoryId": "cortinas",
+    "images": [
+      "/images/products/c-100.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-c-75",
+    "sku": "C-75",
+    "slug": "c-75",
+    "name": "C-75",
+    "categoryId": "cortinas",
+    "images": [
+      "/images/products/c-75.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-elemax-290",
+    "sku": "ELEMAX 290",
+    "slug": "elemax-290",
+    "name": "ELEMAX 290",
+    "categoryId": "cortinas",
+    "images": [
+      "/images/products/elemax-290.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-h5011",
+    "sku": "H5011",
+    "slug": "h5011",
+    "name": "H5011",
+    "categoryId": "motores-portones",
+    "brandId": "liftmaster",
+    "subtype": "Cortina / Operadores",
+    "images": [
+      "/images/products/h5011.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-mh5011-md",
+    "sku": "MH5011 MD",
+    "slug": "mh5011-md",
+    "name": "MH5011 MD",
+    "categoryId": "motores-portones",
+    "brandId": "liftmaster",
+    "subtype": "Cortina / Operadores",
+    "images": [
+      "/images/products/mh5011-md.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-1215e",
+    "sku": "1215E",
+    "slug": "1215e",
+    "name": "1215E",
+    "categoryId": "motores-portones",
+    "brandId": "liftmaster",
+    "subtype": "Cadena",
+    "images": [
+      "/images/products/1215e.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-8160",
+    "sku": "8160",
+    "slug": "8160",
+    "name": "8160",
+    "categoryId": "motores-portones",
+    "brandId": "liftmaster",
+    "subtype": "Cadena",
+    "images": [
+      "/images/products/8160.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-8164w",
+    "sku": "8164W",
+    "slug": "8164w",
+    "name": "8164W",
+    "categoryId": "motores-portones",
+    "brandId": "liftmaster",
+    "subtype": "Cadena",
+    "images": [
+      "/images/products/8164w.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-8360wlb",
+    "sku": "8360WLB",
+    "slug": "8360wlb",
+    "name": "8360WLB",
+    "categoryId": "motores-portones",
+    "brandId": "liftmaster",
+    "subtype": "Cadena",
+    "images": [
+      "/images/products/8360wlb.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-8500w",
+    "sku": "8500W",
+    "slug": "8500w",
+    "name": "8500W",
+    "categoryId": "motores-portones",
+    "brandId": "liftmaster",
+    "subtype": "Cadena",
+    "images": [
+      "/images/products/8500w.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-85503-premiun",
+    "sku": "85503 PREMIUN SERIES",
+    "slug": "85503-premiun",
+    "name": "85503 PREMIUN SERIES",
+    "categoryId": "motores-portones",
+    "brandId": "liftmaster",
+    "subtype": "Cadena",
+    "images": [
+      "/images/products/85503-premiun.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-8587w",
+    "sku": "8587W",
+    "slug": "8587w",
+    "name": "8587W",
+    "categoryId": "motores-portones",
+    "brandId": "liftmaster",
+    "subtype": "Cadena",
+    "images": [
+      "/images/products/8587w.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-bison250ti",
+    "sku": "BE-BISON250TI",
+    "slug": "be-bison250ti",
+    "name": "BE-BISON250TI",
+    "categoryId": "motores-portones",
+    "brandId": "beninca",
+    "subtype": "Cremallera",
+    "images": [
+      "/images/products/be-bison250ti.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-kbull1224",
+    "sku": "BE-KBULL1224",
+    "slug": "be-kbull1224",
+    "name": "BE-KBULL1224",
+    "categoryId": "motores-portones",
+    "brandId": "beninca",
+    "subtype": "Cremallera",
+    "images": [
+      "/images/products/be-kbull1224.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-kbull5",
+    "sku": "BE-KBULL5",
+    "slug": "be-kbull5",
+    "name": "BE-KBULL5",
+    "categoryId": "motores-portones",
+    "brandId": "beninca",
+    "subtype": "Cremallera",
+    "images": [
+      "/images/products/be-kbull5.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-kbull624",
+    "sku": "BE-KBULL624",
+    "slug": "be-kbull624",
+    "name": "BE-KBULL624",
+    "categoryId": "motores-portones",
+    "brandId": "beninca",
+    "subtype": "Cremallera",
+    "images": [
+      "/images/products/be-kbull624.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-kbull8",
+    "sku": "BE-KBULL8",
+    "slug": "be-kbull8",
+    "name": "BE-KBULL8",
+    "categoryId": "motores-portones",
+    "brandId": "beninca",
+    "subtype": "Cremallera",
+    "images": [
+      "/images/products/be-kbull8.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-kit-bull15",
+    "sku": "KIT-BULL15",
+    "slug": "kit-bull15",
+    "name": "KIT-BULL15",
+    "categoryId": "motores-portones",
+    "brandId": "beninca",
+    "subtype": "Cremallera",
+    "images": [
+      "/images/products/kit-bull15.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-kit-bull17omai",
+    "sku": "KIT-BULL17OMAI",
+    "slug": "kit-bull17omai",
+    "name": "KIT-BULL17OMAI",
+    "categoryId": "motores-portones",
+    "brandId": "beninca",
+    "subtype": "Cremallera",
+    "images": [
+      "/images/products/kit-bull17omai.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-kit-bull20he",
+    "sku": "KIT-BULL20HE",
+    "slug": "kit-bull20he",
+    "name": "KIT-BULL20HE",
+    "categoryId": "motores-portones",
+    "brandId": "beninca",
+    "subtype": "Cremallera",
+    "images": [
+      "/images/products/kit-bull20he.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-dz-home-350-jetflex",
+    "sku": "DZ HOME 350 JETFLEX",
+    "slug": "dz-home-350-jetflex",
+    "name": "DZ HOME 350 JETFLEX",
+    "categoryId": "motores-portones",
+    "brandId": "ppa",
+    "subtype": "Cremallera",
+    "images": [
+      "/images/products/dz-home-350-jetflex.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-dz-home-400-jetflex",
+    "sku": "DZ HOME 400 JETFLEX",
+    "slug": "dz-home-400-jetflex",
+    "name": "DZ HOME 400 JETFLEX",
+    "categoryId": "motores-portones",
+    "brandId": "ppa",
+    "subtype": "Cremallera",
+    "images": [
+      "/images/products/dz-home-400-jetflex.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-dz-home-400-jetflex-brushless",
+    "sku": "DZ HOME 400 JETFLEX BRUSHLESS",
+    "slug": "dz-home-400-jetflex-brushless",
+    "name": "DZ HOME 400 JETFLEX BRUSHLESS",
+    "categoryId": "motores-portones",
+    "brandId": "ppa",
+    "subtype": "Cremallera",
+    "images": [
+      "/images/products/dz-home-400-jetflex-brushless.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-dz-rio-400",
+    "sku": "DZ RIO 400",
+    "slug": "dz-rio-400",
+    "name": "DZ RIO 400",
+    "categoryId": "motores-portones",
+    "brandId": "ppa",
+    "subtype": "Cremallera",
+    "images": [
+      "/images/products/dz-rio-400.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-dz-rio-500",
+    "sku": "DZ RIO 500",
+    "slug": "dz-rio-500",
+    "name": "DZ RIO 500",
+    "categoryId": "motores-portones",
+    "brandId": "ppa",
+    "subtype": "Cremallera",
+    "images": [
+      "/images/products/dz-rio-500.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-dz-rio-700",
+    "sku": "DZ RIO 700",
+    "slug": "dz-rio-700",
+    "name": "DZ RIO 700",
+    "categoryId": "motores-portones",
+    "brandId": "ppa",
+    "subtype": "Cremallera",
+    "images": [
+      "/images/products/dz-rio-700.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-kbill30",
+    "sku": "BE-KBILL30",
+    "slug": "be-kbill30",
+    "name": "BE-KBILL30",
+    "categoryId": "pistones-abatibles",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-kbill30.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-kbill4024",
+    "sku": "BE-KBILL4024",
+    "slug": "be-kbill4024",
+    "name": "BE-KBILL4024",
+    "categoryId": "pistones-abatibles",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-kbill4024.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-kbill50",
+    "sku": "BE-KBILL50",
+    "slug": "be-kbill50",
+    "name": "BE-KBILL50",
+    "categoryId": "pistones-abatibles",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-kbill50.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-kbob3010",
+    "sku": "BE-KBOB3010",
+    "slug": "be-kbob3010",
+    "name": "BE-KBOB3010",
+    "categoryId": "pistones-abatibles",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-kbob3010.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-kit-bob5010",
+    "sku": "KIT-BOB5010",
+    "slug": "kit-bob5010",
+    "name": "KIT-BOB5010",
+    "categoryId": "pistones-abatibles",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/kit-bob5010.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-kit-bob5024",
+    "sku": "KIT-BOB5024",
+    "slug": "kit-bob5024",
+    "name": "KIT-BOB5024",
+    "categoryId": "pistones-abatibles",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/kit-bob5024.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-hydro-350",
+    "sku": "HYDRO 350",
+    "slug": "hydro-350",
+    "name": "HYDRO 350",
+    "categoryId": "pistones-abatibles",
+    "brandId": "cab",
+    "images": [
+      "/images/products/hydro-350.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-hydro-500",
+    "sku": "HYDRO 500",
+    "slug": "hydro-500",
+    "name": "HYDRO 500",
+    "categoryId": "pistones-abatibles",
+    "brandId": "cab",
+    "images": [
+      "/images/products/hydro-500.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-la350",
+    "sku": "LA350",
+    "slug": "la350",
+    "name": "LA350",
+    "categoryId": "pistones-abatibles",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/la350.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-condominium-jetflex",
+    "sku": "CONDOMINIUM JETFLEX",
+    "slug": "condominium-jetflex",
+    "name": "CONDOMINIUM JETFLEX",
+    "categoryId": "pistones-abatibles",
+    "brandId": "ppa",
+    "images": [
+      "/images/products/condominium-jetflex.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-1r100",
+    "sku": "1R100",
+    "slug": "1r100",
+    "name": "1R100",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Acanalada",
+    "images": [
+      "/images/products/1r100.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-1r60",
+    "sku": "1R60",
+    "slug": "1r60",
+    "name": "1R60",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Acanalada",
+    "images": [
+      "/images/products/1r60.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-1r60p",
+    "sku": "1R60P",
+    "slug": "1r60p",
+    "name": "1R60P",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Plana",
+    "images": [
+      "/images/products/1r60p.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-1r70p",
+    "sku": "1R70P",
+    "slug": "1r70p",
+    "name": "1R70P",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Plana",
+    "images": [
+      "/images/products/1r70p.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-1r75",
+    "sku": "1R75",
+    "slug": "1r75",
+    "name": "1R75",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Acanalada",
+    "images": [
+      "/images/products/1r75.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-603-55",
+    "sku": "603.55",
+    "slug": "603-55",
+    "name": "603.55",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Rodamiento superior",
+    "images": [
+      "/images/products/603-55.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-604-48p",
+    "sku": "604.48P",
+    "slug": "604-48p",
+    "name": "604.48P",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Rodamiento superior",
+    "images": [
+      "/images/products/604-48p.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-604-55",
+    "sku": "604.55",
+    "slug": "604-55",
+    "name": "604.55",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Rodamiento superior",
+    "images": [
+      "/images/products/604-55.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-626-55",
+    "sku": "626.55",
+    "slug": "626-55",
+    "name": "626.55",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Rodamiento superior",
+    "images": [
+      "/images/products/626-55.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-ca-stl",
+    "sku": "CA-STL",
+    "slug": "ca-stl",
+    "name": "CA-STL",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Rodamiento superior",
+    "images": [
+      "/images/products/ca-stl.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-dw4",
+    "sku": "DW4",
+    "slug": "dw4",
+    "name": "DW4",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Durawheel",
+    "images": [
+      "/images/products/dw4.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-dw5",
+    "sku": "DW5",
+    "slug": "dw5",
+    "name": "DW5",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Durawheel",
+    "images": [
+      "/images/products/dw5.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-dw6",
+    "sku": "DW6",
+    "slug": "dw6",
+    "name": "DW6",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Durawheel",
+    "images": [
+      "/images/products/dw6.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-gst580",
+    "sku": "GST580",
+    "slug": "gst580",
+    "name": "GST580",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Rodamiento superior",
+    "images": [
+      "/images/products/gst580.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-gsup40",
+    "sku": "GSUP40",
+    "slug": "gsup40",
+    "name": "GSUP40",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Guías niveladoras",
+    "images": [
+      "/images/products/gsup40.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-gsup60",
+    "sku": "GSUP60",
+    "slug": "gsup60",
+    "name": "GSUP60",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Guías niveladoras",
+    "images": [
+      "/images/products/gsup60.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-r100",
+    "sku": "R100",
+    "slug": "r100",
+    "name": "R100",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Acanalada",
+    "images": [
+      "/images/products/r100.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-r120",
+    "sku": "R120",
+    "slug": "r120",
+    "name": "R120",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Acanalada",
+    "images": [
+      "/images/products/r120.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-r140",
+    "sku": "R140",
+    "slug": "r140",
+    "name": "R140",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Acanalada",
+    "images": [
+      "/images/products/r140.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-r35",
+    "sku": "R35",
+    "slug": "r35",
+    "name": "R35",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Guías niveladoras",
+    "images": [
+      "/images/products/r35.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-r45",
+    "sku": "R45",
+    "slug": "r45",
+    "name": "R45",
+    "categoryId": "ruedas-rodamientos",
+    "subtype": "Guías niveladoras",
+    "images": [
+      "/images/products/r45.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-ejced30",
+    "sku": "EJCED30",
+    "slug": "ejced30",
+    "name": "EJCED30",
+    "categoryId": "pivotes-bisagras",
+    "images": [
+      "/images/products/ejced30.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-ejced80",
+    "sku": "EJCED80",
+    "slug": "ejced80",
+    "name": "EJCED80",
+    "categoryId": "pivotes-bisagras",
+    "images": [
+      "/images/products/ejced80.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-ejced80ii",
+    "sku": "EJCED80II",
+    "slug": "ejced80ii",
+    "name": "EJCED80II",
+    "categoryId": "pivotes-bisagras",
+    "images": [
+      "/images/products/ejced80ii.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-ejrol50",
+    "sku": "EJROL50",
+    "slug": "ejrol50",
+    "name": "EJROL50",
+    "categoryId": "pivotes-bisagras",
+    "images": [
+      "/images/products/ejrol50.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-ejrol70",
+    "sku": "EJROL70",
+    "slug": "ejrol70",
+    "name": "EJROL70",
+    "categoryId": "pivotes-bisagras",
+    "images": [
+      "/images/products/ejrol70.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-rc50",
+    "sku": "RC50",
+    "slug": "rc50",
+    "name": "RC50",
+    "categoryId": "pivotes-bisagras",
+    "images": [
+      "/images/products/rc50.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-rc70",
+    "sku": "RC70",
+    "slug": "rc70",
+    "name": "RC70",
+    "categoryId": "pivotes-bisagras",
+    "images": [
+      "/images/products/rc70.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-eva",
+    "sku": "EVA",
+    "slug": "eva",
+    "name": "EVA",
+    "categoryId": "barreras",
+    "images": [
+      "/images/products/eva.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-g4000-g6000",
+    "sku": "G4000/G6000",
+    "slug": "g4000-g6000",
+    "name": "G4000/G6000",
+    "categoryId": "barreras",
+    "images": [
+      "/images/products/g4000-g6000.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-lady",
+    "sku": "LADY",
+    "slug": "lady",
+    "name": "LADY",
+    "categoryId": "barreras",
+    "images": [
+      "/images/products/lady.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-cerca-electrica",
+    "sku": "Cerca eléctrica",
+    "slug": "cerca-electrica",
+    "name": "Cerca eléctrica",
+    "categoryId": "cerca-electrica",
+    "images": [
+      "/images/products/cerca-electrica.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-bullet-1080p-2-8mm-ir20m",
+    "sku": "Bullet 1080p 2.8mm IR20m",
+    "slug": "bullet-1080p-2-8mm-ir20m",
+    "name": "Bullet 1080p 2.8mm IR20m",
+    "categoryId": "cctv",
+    "subtype": "1080p",
+    "images": [
+      "/images/products/bullet-1080p-2-8mm-ir20m.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-bullet-1080p-colorvu-2-8mm",
+    "sku": "Bullet 1080P ColorVu 2.8mm",
+    "slug": "bullet-1080p-colorvu-2-8mm",
+    "name": "Bullet 1080P ColorVu 2.8mm",
+    "categoryId": "cctv",
+    "subtype": "1080p",
+    "images": [
+      "/images/products/bullet-1080p-colorvu-2-8mm.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-domo-1080p-colorvu-2-8mm",
+    "sku": "Domo 1080P ColorVu 2.8mm",
+    "slug": "domo-1080p-colorvu-2-8mm",
+    "name": "Domo 1080P ColorVu 2.8mm",
+    "categoryId": "cctv",
+    "subtype": "1080p",
+    "images": [
+      "/images/products/domo-1080p-colorvu-2-8mm.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-eyeball-1080p-2-8mm-ir20m",
+    "sku": "Eyeball 1080p 2.8mm IR20m",
+    "slug": "eyeball-1080p-2-8mm-ir20m",
+    "name": "Eyeball 1080p 2.8mm IR20m",
+    "categoryId": "cctv",
+    "subtype": "1080p",
+    "images": [
+      "/images/products/eyeball-1080p-2-8mm-ir20m.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-bullet-720p-2-8mm-ir20m",
+    "sku": "Bullet 720P 2.8mm IR20m",
+    "slug": "bullet-720p-2-8mm-ir20m",
+    "name": "Bullet 720P 2.8mm IR20m",
+    "categoryId": "cctv",
+    "subtype": "720p",
+    "images": [
+      "/images/products/bullet-720p-2-8mm-ir20m.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-bullet-720p-3-6mm-ir20m",
+    "sku": "Bullet 720P 3.6mm IR20m",
+    "slug": "bullet-720p-3-6mm-ir20m",
+    "name": "Bullet 720P 3.6mm IR20m",
+    "categoryId": "cctv",
+    "subtype": "720p",
+    "images": [
+      "/images/products/bullet-720p-3-6mm-ir20m.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-minidomo-720p-2-8mm-ir20m-metalico",
+    "sku": "Minidomo 720P 2.8mm IR20m Metálico",
+    "slug": "minidomo-720p-2-8mm-ir20m-metalico",
+    "name": "Minidomo 720P 2.8mm IR20m Metálico",
+    "categoryId": "cctv",
+    "subtype": "720p",
+    "images": [
+      "/images/products/minidomo-720p-2-8mm-ir20m-metalico.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-minidomo-720p-3-6mm-ir20m-metalico",
+    "sku": "Minidomo 720P 3.6mm IR20m Metálico",
+    "slug": "minidomo-720p-3-6mm-ir20m-metalico",
+    "name": "Minidomo 720P 3.6mm IR20m Metálico",
+    "categoryId": "cctv",
+    "subtype": "720p",
+    "images": [
+      "/images/products/minidomo-720p-3-6mm-ir20m-metalico.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-cubo-wifi-5mp-2-8mm-ir10m",
+    "sku": "Cubo WIFI 5MP 2.8mm IR10m",
+    "slug": "cubo-wifi-5mp-2-8mm-ir10m",
+    "name": "Cubo WIFI 5MP 2.8mm IR10m",
+    "categoryId": "cctv",
+    "subtype": "WiFi",
+    "images": [
+      "/images/products/cubo-wifi-5mp-2-8mm-ir10m.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-domo-wifi-con-movimiento-2mp-2-8mm",
+    "sku": "Domo WIFI con movimiento 2MP 2.8mm",
+    "slug": "domo-wifi-con-movimiento-2mp-2-8mm",
+    "name": "Domo WIFI con movimiento 2MP 2.8mm",
+    "categoryId": "cctv",
+    "subtype": "WiFi",
+    "images": [
+      "/images/products/domo-wifi-con-movimiento-2mp-2-8mm.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-hoop",
+    "sku": "BE-HOOP",
+    "slug": "be-hoop",
+    "name": "BE-HOOP",
+    "categoryId": "controles-botoneras",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-hoop.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-kit-one",
+    "sku": "BE-KIT-ONE",
+    "slug": "be-kit-one",
+    "name": "BE-KIT-ONE",
+    "categoryId": "controles-botoneras",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-kit-one.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-play-be-rec",
+    "sku": "BE-PLAY/ BE-REC",
+    "slug": "be-play-be-rec",
+    "name": "BE-PLAY/ BE-REC",
+    "categoryId": "controles-botoneras",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-play-be-rec.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-smart",
+    "sku": "BE-SMART",
+    "slug": "be-smart",
+    "name": "BE-SMART",
+    "categoryId": "controles-botoneras",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-smart.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-to-clip",
+    "sku": "BE-TO.CLIP",
+    "slug": "be-to-clip",
+    "name": "BE-TO.CLIP",
+    "categoryId": "controles-botoneras",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-to-clip.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-to-go2as",
+    "sku": "BE-TO.GO2AS",
+    "slug": "be-to-go2as",
+    "name": "BE-TO.GO2AS",
+    "categoryId": "controles-botoneras",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-to-go2as.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-to-go2va",
+    "sku": "BE-TO.GO2VA",
+    "slug": "be-to-go2va",
+    "name": "BE-TO.GO2VA",
+    "categoryId": "controles-botoneras",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-to-go2va.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-to-go4va",
+    "sku": "BE-TO.GO4VA",
+    "slug": "be-to-go4va",
+    "name": "BE-TO.GO4VA",
+    "categoryId": "controles-botoneras",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-to-go4va.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-togo2ak",
+    "sku": "BE-TOGO2AK",
+    "slug": "be-togo2ak",
+    "name": "BE-TOGO2AK",
+    "categoryId": "controles-botoneras",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-togo2ak.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-tokey",
+    "sku": "BE-TOKEY",
+    "slug": "be-tokey",
+    "name": "BE-TOKEY",
+    "categoryId": "controles-botoneras",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-tokey.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-touch",
+    "sku": "BE-TOUCH",
+    "slug": "be-touch",
+    "name": "BE-TOUCH",
+    "categoryId": "controles-botoneras",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-touch.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-374ut",
+    "sku": "374UT",
+    "slug": "374ut",
+    "name": "374UT",
+    "categoryId": "controles-botoneras",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/374ut.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-7512lm",
+    "sku": "7512Lm",
+    "slug": "7512lm",
+    "name": "7512Lm",
+    "categoryId": "controles-botoneras",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/7512lm.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-78lm",
+    "sku": "78LM",
+    "slug": "78lm",
+    "name": "78LM",
+    "categoryId": "controles-botoneras",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/78lm.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-877lm",
+    "sku": "877LM",
+    "slug": "877lm",
+    "name": "877LM",
+    "categoryId": "controles-botoneras",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/877lm.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-877max",
+    "sku": "877max",
+    "slug": "877max",
+    "name": "877max",
+    "categoryId": "controles-botoneras",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/877max.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-883lmw",
+    "sku": "883LMW",
+    "slug": "883lmw",
+    "name": "883LMW",
+    "categoryId": "controles-botoneras",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/883lmw.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-886lm",
+    "sku": "886LM",
+    "slug": "886lm",
+    "name": "886LM",
+    "categoryId": "controles-botoneras",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/886lm.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-888lm",
+    "sku": "888LM",
+    "slug": "888lm",
+    "name": "888LM",
+    "categoryId": "controles-botoneras",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/888lm.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-889lm",
+    "sku": "889LM",
+    "slug": "889lm",
+    "name": "889LM",
+    "categoryId": "controles-botoneras",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/889lm.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-890max",
+    "sku": "890MAX",
+    "slug": "890max",
+    "name": "890MAX",
+    "categoryId": "controles-botoneras",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/890max.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-891lm",
+    "sku": "891LM",
+    "slug": "891lm",
+    "name": "891LM",
+    "categoryId": "controles-botoneras",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/891lm.jpeg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-892lt",
+    "sku": "892LT",
+    "slug": "892lt",
+    "name": "892LT",
+    "categoryId": "controles-botoneras",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/892lt.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-893lm",
+    "sku": "893LM",
+    "slug": "893lm",
+    "name": "893LM",
+    "categoryId": "controles-botoneras",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/893lm.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-893max",
+    "sku": "893MAX",
+    "slug": "893max",
+    "name": "893MAX",
+    "categoryId": "controles-botoneras",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/893max.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-971lm",
+    "sku": "971LM",
+    "slug": "971lm",
+    "name": "971LM",
+    "categoryId": "controles-botoneras",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/971lm.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-973lm",
+    "sku": "973LM",
+    "slug": "973lm",
+    "name": "973LM",
+    "categoryId": "controles-botoneras",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/973lm.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-lampi24c-led-2",
+    "sku": "BE-IRI-LAMP",
+    "slug": "be-lampi24c-led-2",
+    "name": "BE-IRI-LAMP",
+    "categoryId": "repuestos-accesorios",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-lampi24c-led-2.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-lampi-led",
+    "sku": "BE-LAMPI-LED",
+    "slug": "be-lampi-led",
+    "name": "BE-LAMPI-LED",
+    "categoryId": "repuestos-accesorios",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-lampi-led.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-lampi24c-led",
+    "sku": "BE-LAMPI24C-LED",
+    "slug": "be-lampi24c-led",
+    "name": "BE-LAMPI24C-LED",
+    "categoryId": "repuestos-accesorios",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-lampi24c-led.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-be-pupila",
+    "sku": "BE-PUPILA",
+    "slug": "be-pupila",
+    "name": "BE-PUPILA",
+    "categoryId": "repuestos-accesorios",
+    "brandId": "beninca",
+    "images": [
+      "/images/products/be-pupila.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-41a5034",
+    "sku": "41A5034",
+    "slug": "41a5034",
+    "name": "41A5034",
+    "categoryId": "repuestos-accesorios",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/41a5034.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-828lm",
+    "sku": "828LM",
+    "slug": "828lm",
+    "name": "828LM",
+    "categoryId": "repuestos-accesorios",
+    "brandId": "liftmaster",
+    "images": [
+      "/images/products/828lm.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-herrajes-de-extension",
+    "sku": "Herrajes de extensión",
+    "slug": "herrajes-de-extension",
+    "name": "Herrajes de extensión",
+    "categoryId": "herrajes-seccionales",
+    "images": [],
+    "status": "active"
+  },
+  {
+    "id": "p-herrajes-de-torsion",
+    "sku": "Herrajes de torsión",
+    "slug": "herrajes-de-torsion",
+    "name": "Herrajes de torsión",
+    "categoryId": "herrajes-seccionales",
+    "images": [
+      "/images/products/herrajes-de-torsion.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-herrajes-especiales",
+    "sku": "Herrajes Especiales",
+    "slug": "herrajes-especiales",
+    "name": "Herrajes Especiales",
+    "categoryId": "herrajes-seccionales",
+    "images": [
+      "/images/products/herrajes-especiales.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-resortes",
+    "sku": "Resortes",
+    "slug": "resortes",
+    "name": "Resortes",
+    "categoryId": "herrajes-seccionales",
+    "images": [
+      "/images/products/resortes.png"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-estacion-maestra",
+    "sku": "Estación maestra",
+    "slug": "estacion-maestra",
+    "name": "Estación maestra",
+    "categoryId": "intercomunicadores",
+    "images": [
+      "/images/products/estacion-maestra.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-video-portero-analogicos",
+    "sku": "Video portero analógicos",
+    "slug": "video-portero-analogicos",
+    "name": "Video portero analógicos",
+    "categoryId": "intercomunicadores",
+    "images": [
+      "/images/products/video-portero-analogicos.jpg"
+    ],
+    "status": "active"
+  },
+  {
+    "id": "p-video-portero-wifi-2mp",
+    "sku": "Video portero IP",
+    "slug": "video-portero-wifi-2mp",
+    "name": "Video portero IP",
+    "categoryId": "intercomunicadores",
+    "images": [
+      "/images/products/video-portero-wifi-2mp.jpeg"
+    ],
+    "status": "active"
+  }
+]

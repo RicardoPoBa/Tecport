@@ -1,0 +1,46 @@
+{
+  "automatizacion-residencial": [
+    "/images/landings/automatizacion-residencial/automatizacion-residencial.jpg",
+    "/images/landings/automatizacion-residencial/8550w-new-1000.jpg"
+  ],
+  "automatizacion-condominal": [
+    "/images/landings/automatizacion-condominal/automatizacion-condominal.jpg"
+  ],
+  "control-de-acceso": [
+    "/images/landings/control-de-acceso/controlaccesoproximidad02.jpg"
+  ],
+  "puertas-automaticas": [
+    "/images/landings/puertas-automaticas/puerta-automaticas.jpg",
+    "/images/landings/puertas-automaticas/puerta-automaticas-152-1.jpg",
+    "/images/landings/puertas-automaticas/puerta-12546.jpg",
+    "/images/landings/puertas-automaticas/puerta-my-one.jpg"
+  ],
+  "portones-blacksmith": [
+    "/images/landings/portones-blacksmith/dsc-7113.jpg"
+  ],
+  "intercomunicadores": [
+    "/images/landings/intercomunicadores/video-portero-marca-hikvision-cableado-d-nq-np-787124-mlu25614541554-052017-f.jpg"
+  ],
+  "barreras-automaticas": [
+    "/images/landings/barreras-automaticas/portada-barreras-automaticas-400.jpg",
+    "/images/landings/barreras-automaticas/g4000.jpg",
+    "/images/landings/barreras-automaticas/barrera-vehicular-lady-5-988x800-1.jpg"
+  ],
+  "cctv": [
+    "/images/landings/cctv/cctv1.jpg",
+    "/images/landings/cctv/domo-1080p-colorvu-2-8mm.jpg",
+    "/images/landings/cctv/cubo-wifi-300x300.jpg",
+    "/images/landings/cctv/ds2cd2f22fwdiw-300x300.jpg",
+    "/images/landings/cctv/ds2ce56c0tirmf-300x300.jpg",
+    "/images/landings/cctv/20190812213130458.png",
+    "/images/landings/cctv/20190820171025924.png",
+    "/images/landings/cctv/20190909173740261.png",
+    "/images/landings/cctv/20190917130836535.png"
+  ],
+  "cercas-electricas": [
+    "/images/landings/cercas-electricas/istockphoto-1039491206-612x612-1.jpg"
+  ],
+  "cortinas-arrollables": [
+    "/images/landings/cortinas-arrollables/arrollable.jpg"
+  ]
+}

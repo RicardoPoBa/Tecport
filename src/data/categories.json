@@ -1,0 +1,83 @@
+[
+  {
+    "id": "motores-portones",
+    "slug": "motores-para-portones",
+    "name": "Motores para Portones",
+    "brandFacet": true,
+    "subtypeFacet": ["Cremallera", "Cadena", "Cortina / Operadores"]
+  },
+  {
+    "id": "pistones-abatibles",
+    "slug": "pistones-hidraulicos-abatibles",
+    "name": "Pistones Hidráulicos Abatibles",
+    "brandFacet": true
+  },
+  {
+    "id": "controles-botoneras",
+    "slug": "controles-remotos-y-botoneras",
+    "name": "Controles Remotos y Botoneras",
+    "brandFacet": true
+  },
+  {
+    "id": "repuestos-accesorios",
+    "slug": "repuestos-y-accesorios",
+    "name": "Repuestos y Accesorios",
+    "brandFacet": true
+  },
+  {
+    "id": "cctv",
+    "slug": "camaras-cctv",
+    "name": "Cámaras CCTV",
+    "brandFacet": false,
+    "subtypeFacet": ["720p", "1080p", "WiFi"]
+  },
+  {
+    "id": "ruedas-rodamientos",
+    "slug": "ruedas-y-rodamientos",
+    "name": "Ruedas y Rodamientos",
+    "brandFacet": false,
+    "subtypeFacet": ["Plana", "Acanalada", "Durawheel", "Guías niveladoras", "Rodamiento superior"]
+  },
+  {
+    "id": "blacksmith",
+    "slug": "portones-seccionales-blacksmith",
+    "name": "Portones Seccionales Blacksmith",
+    "brandFacet": false
+  },
+  {
+    "id": "cortinas",
+    "slug": "cortinas-metalicas-arrollables",
+    "name": "Cortinas Metálicas Arrollables",
+    "brandFacet": false
+  },
+  {
+    "id": "pivotes-bisagras",
+    "slug": "pivotes-y-bisagras",
+    "name": "Pivotes y Bisagras",
+    "brandFacet": false
+  },
+  {
+    "id": "barreras",
+    "slug": "barreras-automaticas",
+    "name": "Barreras Automáticas",
+    "brandFacet": false
+  },
+  {
+    "id": "cerca-electrica",
+    "slug": "cerca-electrica",
+    "name": "Cerca Eléctrica",
+    "brandFacet": false
+  },
+  {
+    "id": "intercomunicadores",
+    "slug": "intercomunicadores",
+    "name": "Intercomunicadores",
+    "brandFacet": false
+  },
+  {
+    "id": "herrajes-seccionales",
+    "slug": "herrajes-para-seccionales",
+    "name": "Herrajes para Seccionales",
+    "brandFacet": false
+  }
+]

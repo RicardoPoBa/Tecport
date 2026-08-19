@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  /* Identidad de marca heredada de tecportcr.com — ver mapa del sitio / plan de reconstrucción */
+  --color-brand-action: #bb2828;
+  --color-brand-action-hover: #7a1919;
+  --color-ink: #111111;
+  --color-muted: #6b6b6b;
+  --color-surface: #ffffff;
+  --color-surface-subtle: #f6f6f7;
+  --color-border: #e4e4e7;
+
+  --font-heading: "Arvo", ui-serif, Georgia, serif;
+  --font-sans: "Barlow", ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  @apply bg-surface text-ink font-sans antialiased;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  @apply font-heading;
+}

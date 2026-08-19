@@ -1,0 +1,173 @@
+[
+  {
+    "slug": "automatizacion-residencial",
+    "navLabel": "Automatización Residencial",
+    "title": "Automatización Residencial",
+    "features": [
+      { "icon": "layout-grid", "title": "Variedad de diseños", "text": "Portones seccional, corredizo y abatible." },
+      { "icon": "sparkles", "title": "Estilos innovadores", "text": "Innovación en colores, diseños y funcionamiento." },
+      { "icon": "shield-check", "title": "Equipos de alta gama", "text": "Trabajamos con las mejores marcas del mercado." }
+    ],
+    "body": [
+      "Portones residenciales seccional, corredizo y abatible con motores de las mejores marcas, control remoto y control por aplicación móvil."
+    ],
+    "images": [
+      "/images/landings/automatizacion-residencial/automatizacion-residencial.jpg",
+      "/images/landings/automatizacion-residencial/8550w-new-1000.jpg"
+    ],
+    "thumbnail": "/images/landings/thumbs/automatizacion-residencial.jpg",
+    "relatedCategorySlug": "motores-para-portones"
+  },
+  {
+    "slug": "automatizacion-condominal",
+    "navLabel": "Automatización Condominal",
+    "title": "Automatización Condominal",
+    "features": [
+      { "icon": "clipboard-check", "title": "Asesoramiento", "text": "Acompañamiento en cada etapa del proyecto." },
+      { "icon": "bar-chart", "title": "Soluciones", "text": "Cálculo de flujos y estimación de duración del proyecto." },
+      { "icon": "building", "title": "Todo tipo", "text": "Vertical, horizontal o mixto." }
+    ],
+    "body": [
+      "Asesoramiento y análisis a medida del condominio, cubriendo proyectos verticales, horizontales o mixtos."
+    ],
+    "images": ["/images/landings/automatizacion-condominal/automatizacion-condominal.jpg"],
+    "thumbnail": "/images/landings/thumbs/automatizacion-condominal.jpg",
+    "relatedCategorySlug": "motores-para-portones"
+  },
+  {
+    "slug": "control-de-acceso",
+    "navLabel": "Control de Acceso",
+    "title": "Control de Acceso",
+    "features": [
+      { "icon": "lock", "title": "Control", "text": "Control de acceso peatonal y vehicular." },
+      { "icon": "cpu", "title": "Última tecnología", "text": "Innovaciones en seguridad de acceso." },
+      { "icon": "check-circle", "title": "Soluciones", "text": "A la medida de cada proyecto." }
+    ],
+    "body": [
+      "Control de acceso peatonal con lectores biométricos y de proximidad."
+    ],
+    "images": ["/images/landings/control-de-acceso/controlaccesoproximidad02.jpg"],
+    "relatedCategorySlug": "controles-remotos-y-botoneras"
+  },
+  {
+    "slug": "puertas-automaticas",
+    "navLabel": "Puertas Automáticas",
+    "title": "Puertas Automáticas",
+    "features": [
+      { "icon": "bar-chart", "title": "Soluciones", "text": "Cálculo de flujos de personas." },
+      { "icon": "clipboard-check", "title": "Asesoramiento", "text": "Acompañamiento técnico en el proyecto." },
+      { "icon": "store", "title": "Todo tipo", "text": "Tiendas, almacenes, hoteles y centros comerciales." }
+    ],
+    "body": [
+      "Automatismos MYONE y puertas correderas Luce Light para accesos peatonales de alto tránsito."
+    ],
+    "images": [
+      "/images/landings/puertas-automaticas/puerta-automaticas.jpg",
+      "/images/landings/puertas-automaticas/puerta-automaticas-152-1.jpg",
+      "/images/landings/puertas-automaticas/puerta-12546.jpg",
+      "/images/landings/puertas-automaticas/puerta-my-one.jpg"
+    ],
+    "thumbnail": "/images/landings/thumbs/puertas-automaticas.jpg"
+  },
+  {
+    "slug": "portones-blacksmith",
+    "navLabel": "Portones Blacksmith",
+    "title": "Portones Blacksmith",
+    "features": [
+      { "icon": "shield", "title": "Robustez y durabilidad", "text": "Paneles doble lámina calibre 24 + poliuretano." },
+      { "icon": "palette", "title": "Paneles personalizados", "text": "Variedad de diseños y colores." },
+      { "icon": "volume-x", "title": "Seguridad y confort", "text": "Operación silenciosa." }
+    ],
+    "body": [
+      "Paneles horizontales con bisagras y rodines sobre guías — marca propia Tecport."
+    ],
+    "images": ["/images/landings/portones-blacksmith/dsc-7113.jpg"],
+    "thumbnail": "/images/landings/thumbs/portones-blacksmith.jpg",
+    "relatedCategorySlug": "portones-seccionales-blacksmith"
+  },
+  {
+    "slug": "intercomunicadores",
+    "navLabel": "Intercomunicadores",
+    "title": "Intercomunicadores",
+    "features": [
+      { "icon": "phone", "title": "Interanálogos", "text": "Audio y video." },
+      { "icon": "home", "title": "Residenciales y condominales", "text": "Soluciones para todo tipo de proyecto." },
+      { "icon": "smartphone", "title": "Aplicaciones inteligentes", "text": "Control desde el celular." }
+    ],
+    "body": [
+      "Analógicos con audio/video en pantalla de 7\", e IP con lector de tarjetas para control de acceso y apps IoT."
+    ],
+    "images": [
+      "/images/landings/intercomunicadores/video-portero-marca-hikvision-cableado-d-nq-np-787124-mlu25614541554-052017-f.jpg"
+    ],
+    "relatedCategorySlug": "intercomunicadores"
+  },
+  {
+    "slug": "barreras-automaticas",
+    "navLabel": "Barreras Automáticas",
+    "title": "Barreras Automáticas",
+    "features": [
+      { "icon": "gauge", "title": "Control de ingreso", "text": "Motores de alta velocidad." },
+      { "icon": "car", "title": "Tránsito vehicular", "text": "Soluciones para alto flujo vehicular." },
+      { "icon": "shield-check", "title": "Seguridad", "text": "Control de acceso vehicular confiable." }
+    ],
+    "body": [],
+    "images": [
+      "/images/landings/barreras-automaticas/portada-barreras-automaticas-400.jpg",
+      "/images/landings/barreras-automaticas/g4000.jpg",
+      "/images/landings/barreras-automaticas/barrera-vehicular-lady-5-988x800-1.jpg"
+    ],
+    "thumbnail": "/images/landings/thumbs/barreras-automaticas.jpg",
+    "relatedCategorySlug": "barreras-automaticas"
+  },
+  {
+    "slug": "cctv",
+    "navLabel": "CCTV",
+    "title": "CCTV",
+    "features": [
+      { "icon": "video", "title": "Video vigilancia", "text": "Supervisión de ambientes y actividades." },
+      { "icon": "shield", "title": "Seguridad de espacios", "text": "Cobertura interior y exterior." },
+      { "icon": "check-circle", "title": "Soluciones a medida", "text": "Según el tipo de proyecto." }
+    ],
+    "body": [],
+    "images": [
+      "/images/landings/cctv/cctv1.jpg",
+      "/images/landings/cctv/domo-1080p-colorvu-2-8mm.jpg",
+      "/images/landings/cctv/cubo-wifi-300x300.jpg",
+      "/images/landings/cctv/ds2cd2f22fwdiw-300x300.jpg",
+      "/images/landings/cctv/ds2ce56c0tirmf-300x300.jpg"
+    ],
+    "thumbnail": "/images/landings/thumbs/cctv.jpg",
+    "relatedCategorySlug": "camaras-cctv"
+  },
+  {
+    "slug": "cercas-electricas",
+    "navLabel": "Cercas Eléctricas",
+    "title": "Cercas Eléctricas",
+    "features": [
+      { "icon": "shield-alert", "title": "Proteger su inmueble", "text": "Detección de intrusos a tiempo." },
+      { "icon": "fence", "title": "Seguridad perimetral", "text": "Cobertura de todo el perímetro." },
+      { "icon": "siren", "title": "Alarma", "text": "Sirena de alarma integrada." }
+    ],
+    "body": [
+      "Sistema de alta seguridad con sirena de alarma, más eficaz que el tradicional alambre navaja."
+    ],
+    "images": ["/images/landings/cercas-electricas/istockphoto-1039491206-612x612-1.jpg"],
+    "thumbnail": "/images/landings/thumbs/cercas-electricas.jpg",
+    "relatedCategorySlug": "cerca-electrica"
+  },
+  {
+    "slug": "cortinas-arrollables",
+    "navLabel": "Cortinas Arrollables",
+    "title": "Cortinas Arrollables",
+    "features": [
+      { "icon": "sparkles", "title": "Acabado elegante", "text": "Terminaciones de alta calidad." },
+      { "icon": "shrink", "title": "Espacio reducido", "text": "Se guardan ocupando poco espacio." },
+      { "icon": "layout-grid", "title": "Gran variedad", "text": "Diferentes láminas y diseños." }
+    ],
+    "body": [],
+    "images": ["/images/landings/cortinas-arrollables/arrollable.jpg"],
+    "thumbnail": "/images/landings/thumbs/cortinas-arrollables.jpg",
+    "relatedCategorySlug": "cortinas-metalicas-arrollables"
+  }
+]
